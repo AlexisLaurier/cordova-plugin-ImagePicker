@@ -8,13 +8,13 @@
     <string name="ip_preview">Aperçu</string>
     <string name="ip_preview_count">Aperçu(%1$d)</string>
     <string name="ip_photo_crop">Recadrer</string>
-    <string name="ip_origin">Image d'origine</string>
-    <string name="ip_origin_size">Image d'origine(%1$s)</string>
+    <string name="ip_origin">Image d\'origine</string>
+    <string name="ip_origin_size">Image d\'origine(%1$s)</string>
     <string name="ip_str_no_camera">Aucune caméra détectée</string>
     <string name="ip_str_capture">Prendre des photos</string>
     <string name="ip_str_choose">Sélectionner</string>
     <string name="ip_str_picture">Photo</string>
-    <string name="ip_str_no_permission">Aucune autorisation </string>
+    <string name="ip_str_no_permission">Aucune autorisation</string>
     <string name="ip_str_no_camera_permission">Aucune autorisation de prendre une photo</string>
     <string name="ip_str_tips">Astuces</string>
     <string name="ip_need_to_del">Voulez-vous supprimer cette photo ?</string>
